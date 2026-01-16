@@ -1,4 +1,4 @@
-# Aliclik - Prueba Técnica (Fullstack)
+# Aliclik
 
 Este repositorio implementa la prueba descrita en el documento adjunto: aplicación web responsive con **autenticación JWT**, **CRUD de usuarios** y **listado de Pokémon** consumiendo **PokeAPI**, usando:
 
@@ -10,8 +10,6 @@ Requisitos funcionales (según el enunciado):
 - CRUD de usuarios con validaciones y acceso por autenticación.
 - Listado de Pokémon con paginación/carga incremental y manejo de errores.
 - Testing (unitario e integración) y documentación.
-
-> Fuente: documento `Prueba técnica.docx`. fileciteturn1file0L5-L61
 
 ---
 
@@ -113,8 +111,4 @@ npm test
   - configurar dominios/CORS acorde al entorno
 
 ---
-
-## Entrega
-1. Subir este repo a GitHub.
-2. Compartir el enlace según el enunciado.
 
